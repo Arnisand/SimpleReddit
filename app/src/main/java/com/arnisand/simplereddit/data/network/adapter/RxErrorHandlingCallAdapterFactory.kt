@@ -1,7 +1,6 @@
 package com.arnisand.simplereddit.data.network.adapter
 
 import io.reactivex.Observable
-import io.reactivex.Single
 import java.io.IOException
 import java.lang.reflect.Type
 
